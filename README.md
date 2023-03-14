@@ -15,7 +15,7 @@ Some of the topics covered: MySQL and PDO, Unit Tests, Quality Tools (PHPStan), 
 
 #### Feel free to contact me for working opportunities or just to say "Hi". 
 
-[Email](aladinhadziic@gmail.com) |	[LinkedIn](https://www.linkedin.com/in/aladin-hadžić-96521614a/)
+[Email](mailto:aladinhadziic@gmail.com) |	[LinkedIn](https://www.linkedin.com/in/aladin-hadžić-96521614a/)
 
 <!--
 **DSOTMN/DSOTMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
