@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Aladin Hadzic - PHP Developer 😄
+#### Aladin Hadzic - Web Developer & [Jagaad](https://academy.jagaad.com) Student 😄
 I have been working as a Web developer since 2017 - full-time and freelancing. 
 Some of the languages and technologies I've used through my career are:
 - HTML5 
