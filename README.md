@@ -7,9 +7,8 @@ Some of the languages and technologies I've used through my career are:
 - CSS (Bootstrap, Foundation)
 - Javascript (vanilla and jQuery)
 - Wordpress
-- Magento
 
-#### I am currently working on freelancing projects and actively learning **Advanced PHP** 🔭
+#### I am currently working on freelancing projects and looking for a full time **PHP development** work 🔭
 Check out my projects here on GitHub, where you can see the topics I am studying about the modern Object-oriented PHP.
 Some of the topics covered: MySQL and PDO, Unit Tests, Quality Tools (PHPStan), REST API, OpenAPI, Slim framework...
 
