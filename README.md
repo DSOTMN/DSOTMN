@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Aladin Hadzic - Web Developer & [Jagaad](https://academy.jagaad.com) Student 😄
+#### My name is Aladin Hadzic - Web Developer & [Jagaad](https://academy.jagaad.com) graduate 😄
 I have been working as a Web developer since 2017 - full-time and freelancing. 
 Some of the languages and technologies I've used through my career are:
 - HTML5 
@@ -10,7 +10,7 @@ Some of the languages and technologies I've used through my career are:
 
 #### I am currently working on freelancing projects and looking for a full time **PHP development** work 🔭
 Check out my projects here on GitHub, where you can see the topics I am studying about the modern Object-oriented PHP.
-Some of the topics covered: MySQL and PDO, Unit Tests, Quality Tools (PHPStan), REST API, OpenAPI, Slim framework...
+Some of the topics covered: MySQL and PDO, Unit Tests, Quality Tools (PHPStan), REST API, OpenAPI, Slim framework, Symfony, Docker, Composer...
 
 #### Feel free to contact me for working opportunities or just to say "Hi". 
 
